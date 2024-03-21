@@ -1,0 +1,122 @@
+@font-face{
+    font-family:"italianno-v7-latin-regular.woff2";
+    src:url("shakespeare-quotes-plantilla/italianno-v7-latin-regular.woff2")
+}
+body{
+    background:url("shakespeare-quotes-plantilla/fondo-250.jpg");
+}
+h1{
+    text-align: center;
+    background-color: aliceblue;
+    color: blueviolet;
+    width: 460px;
+    font-size:60px;
+    margin-left:400px;
+    text-transform: uppercase;
+}
+h2{
+    margin-top: -35px;
+    text-align: center;
+    background-color: aliceblue;
+    color: blueviolet;
+    width: 245px;
+    font-size:60px;
+    margin-left: 500px;
+    text-transform: uppercase;
+}
+div.love{
+    margin-top: -190px;
+    height: 300px;
+    width: 300px;
+    border: solid black 4px;
+    background-color: aquamarine;
+    border-bottom-left-radius:60px;
+    border-bottom-right-radius:60px;
+    background-image: url("shakespeare-quotes-plantilla/128150-sparkling-heart.svg");
+    background-size: 60px;
+    background-repeat: repeat-x;
+    background-position:top;
+}
+p.love{
+    font-family:"italianno-v7-latin-regular.woff2";
+    font-size: 40px;
+    font-weight: bold;
+    text-align:justify;
+    margin-top: auto;
+    margin-left: 15px;
+    margin-right: 5px;
+}
+p.lovedos{
+    font-family:"italianno-v7-latin-regular.woff2";
+    font-size: 40px;
+    font-weight: bold;
+    text-align:justify;
+    margin-top: -30px;
+    margin-left: 15px;
+    margin-right: 5px;
+}
+p.lovetres{
+    font-family:"italianno-v7-latin-regular.woff2";
+    font-size: 40px;
+    font-weight: bold;
+    text-align:justify;
+    margin-top: -30px;
+    margin-left: 15px;
+    margin-right: 5px;
+}
+
+p.loveE{
+    font-size: 20px;
+    margin-top:-30px;
+    font-weight: bold;
+    text-align:center ;
+    margin-left: 10px;
+}
+div.lovedos{
+    margin-top: 60px;
+    height: auto;
+    width: 300px;
+    border: solid black 4px;
+    background-color: aquamarine;
+    border-bottom-left-radius:60px;
+    border-bottom-right-radius:60px;
+   
+}
+div.medio{
+    float: left;
+    background-color: rgb(118, 140, 189);
+    height: 300px;
+    width:460px;
+    margin-top: -480px;
+    margin-left: 400px;
+}
+p.william{
+    margin-left: 5px;
+    text-align:left;
+    font-size: 22.5px;
+    font-weight: bold;
+}
+div.lovetres{
+    margin-top: -630px;
+    float: right;
+    height: 280px;
+    width: 300px;
+    border: solid black 4px;
+    background-color: aquamarine;
+    border-bottom-left-radius:60px;
+    border-bottom-right-radius:60px;
+   
+}
+div.lovecuatro{
+    margin-top: -260px;
+    float: right;
+    height: auto;
+    width: 300px;
+    border: solid black 4px;
+    background-color: aquamarine;
+    border-bottom-left-radius:60px;
+    border-bottom-right-radius:60px;
+    background-image: url("shakespeare-quotes-plantilla/128128-skull.svg");
+    background-repeat: no-repeat;
+    background-size: 98%;
+}
